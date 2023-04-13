@@ -6,7 +6,7 @@ However, not all proxy servers are reliable, and some may be slow, unresponsive,
 This tool would typically work by attempting to establish a connection to a website or server through each proxy server in the list. If the connection is successful, the proxy is considered to be working. If the connection fails or times out, the proxy is marked as not working.
 
 By using this tool, you can ensure that you only use reliable and responsive proxy servers, which can help improve your internet experience and protect your privacy online.
-
+At the end you get new txt file include working proxy's
 # Usage
 $ python pr0xyCheck.py
 
