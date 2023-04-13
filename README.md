@@ -10,9 +10,9 @@ By using this tool, you can ensure that you only use reliable and responsive pro
 # Usage
 $ python pr0xyCheck.py
 
-*******************************************************************
-*                                                                 *
-*                     🐬Ocean Academy🐬 Proxy Tester🐬           *
-*                                                                 *
-*******************************************************************
-Enter the name of the file containing the list of proxies:
+    *******************************************************************
+    *                                                                 *
+    *                     🐬Ocean Academy🐬 Proxy Tester🐬           *
+    *                                                                 *
+    *******************************************************************
+    Enter the name of the file containing the list of proxies:
